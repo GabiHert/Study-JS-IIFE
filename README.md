@@ -16,7 +16,7 @@
 
 console.log: `action argument constant const`
 
-- `variable` constant has no connection with the global scope.
+- `constant` constant has no connection with the global scope.
 - `action` parameter receives `"action argument"` as argument.
 
 ## Arguments and parameters.
